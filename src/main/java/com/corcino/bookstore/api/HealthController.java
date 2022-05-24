@@ -15,7 +15,7 @@ public class HealthController {
 
     @GetMapping
     @Operation(description = "API to response greetings")
-    @ApiResponses(value = { @ApiResponse(responseCode = "200", description = "Success method return.") })
+    @ApiResponses(value = { @ApiResponse(responseCode = "200", description = "Success method return") })
     public ResponseEntity<HealthResponse> hello() {
         return ResponseEntity.ok(new HealthResponse("Hello! Bookstore is on!"));
     }
