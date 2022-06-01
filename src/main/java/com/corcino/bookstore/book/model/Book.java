@@ -1,5 +1,9 @@
-package com.corcino.bookstore.model;
+package com.corcino.bookstore.book.model;
 
+import com.corcino.bookstore.author.model.Author;
+import com.corcino.bookstore.generic.Auditable;
+import com.corcino.bookstore.publisher.model.Publisher;
+import com.corcino.bookstore.user.model.User;
 import lombok.Getter;
 import lombok.Setter;
 

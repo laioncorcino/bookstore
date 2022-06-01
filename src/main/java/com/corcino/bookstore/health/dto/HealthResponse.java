@@ -1,4 +1,4 @@
-package com.corcino.bookstore.dto;
+package com.corcino.bookstore.health.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
