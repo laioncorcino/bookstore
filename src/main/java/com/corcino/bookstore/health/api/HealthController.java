@@ -1,6 +1,6 @@
-package com.corcino.bookstore.api;
+package com.corcino.bookstore.health.api;
 
-import com.corcino.bookstore.dto.HealthResponse;
+import com.corcino.bookstore.health.dto.HealthResponse;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

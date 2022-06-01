@@ -1,6 +1,6 @@
-package com.corcino.bookstore.repository;
+package com.corcino.bookstore.author.repository;
 
-import com.corcino.bookstore.model.Author;
+import com.corcino.bookstore.author.model.Author;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

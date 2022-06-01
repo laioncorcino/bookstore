@@ -1,4 +1,4 @@
-package com.corcino.bookstore.model;
+package com.corcino.bookstore.generic;
 
 import lombok.Getter;
 import lombok.Setter;

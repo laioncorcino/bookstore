@@ -1,4 +1,4 @@
-package com.corcino.bookstore.model;
+package com.corcino.bookstore.user.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
